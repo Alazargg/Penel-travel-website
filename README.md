@@ -10,12 +10,6 @@ The project focuses on clean design, responsive layouts, and a smooth user exper
 
 Add your live website link here after deployment.
 
-Example:
-
-```bash
-https://yourwebsite.vercel.app
-```
-
 ---
 
 # 📸 Project Preview
