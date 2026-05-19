@@ -3,6 +3,7 @@
 Penel Travel Website is a modern and responsive travel platform designed to help users explore destinations, discover travel experiences, and interact with a visually engaging tourism website.
 
 The project focuses on clean design, responsive layouts, and a smooth user experience using front-end web technologies.
+
 ---
 
 # 📸 Project Preview
